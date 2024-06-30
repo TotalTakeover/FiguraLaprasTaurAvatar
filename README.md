@@ -1,5 +1,5 @@
 # [Lapras Taur](https://github.com/TotalTakeover/FiguraLaprasTaurAvatar)
-### Version: v1.5.2
+### Version: v2.0.0
 This Figura avatar is a template designed around turning the user into a Lapras-Taur.
 
 ### Authors:
